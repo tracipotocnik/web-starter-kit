@@ -34,4 +34,4 @@ Your site will rull locally at http://localhost:3000/ using BrowserSync.
 
 **To create a zip file of your site, run `gulp build`**
 
-`conntourage.zip` will be available within the `dist` folder
+`website.zip` will be available within the `dist` folder
